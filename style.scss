@@ -1,0 +1,27 @@
+html, body{
+	height: 100%;
+	width: 100%;
+	margin: 0;
+}
+
+.container{
+	display: flex;
+	height: 100%;
+	width: 100%;
+	background-color: red;
+	justify-content: center;
+}
+
+.paper{
+	background:url(img/scroll.jpg);
+	background-size: contain;
+	background-repeat: no-repeat;
+	transform: rotate(90deg);
+	height: 50%;
+	width: 50%;
+	align-self: center;
+}
+
+.quote{
+
+}
