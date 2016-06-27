@@ -8,12 +8,10 @@ html, body{
 	position: absolute;
 	height: 100%;
 	width: 100%;
-	background-color: lightgreen;
 }
 
 .paper{
 	position: absolute;
-	background-color: white;
 	width: 60%;
 	height: 40%;
 	top: 30%;
@@ -22,7 +20,7 @@ html, body{
 
 .quote{
 	font-size: 4em;
-	height: auto; 
+	height: auto;
 	width: 100%;
 	top: 35%;
 	position: relative;
@@ -58,4 +56,3 @@ button {
 	border-radius: 20px;
 	font-size: 1.2em;
 }
-

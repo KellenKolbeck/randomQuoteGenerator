@@ -6,16 +6,16 @@ html, body {
 .container {
   position: absolute;
   height: 100%;
-  width: 100%;
-  background-color: lightgreen; }
+  width: 100%; }
 
 .paper {
   position: absolute;
-  background-color: white;
   width: 60%;
   height: 40%;
   top: 30%;
-  left: 20%; }
+  left: 20%;
+  background-color: #fff;
+}
 
 .quote {
   font-size: 4em;
